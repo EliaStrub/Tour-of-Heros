@@ -9,7 +9,6 @@ import { HeroesComponent } from './heroes/heroes.component';
   declarations: [
     AppComponent,
     HeroesComponent,
-    SelectorComponent
   ],
   imports: [
     BrowserModule,
